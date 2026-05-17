@@ -142,6 +142,3 @@ A janela do aplicativo abrirá instantaneamente em sua área de trabalho!
 
 Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
----
-
-*Desenvolvido com foco em excelência técnica, portfólio profissional e resultados reais.*
